@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "firstname": "Cristiano",
+        "lastname": "Ronaldo"
+    },
+    {
+        "id": 2,
+        "firstname": "Lionel",
+        "lastname": "Messi"
+    }
+]

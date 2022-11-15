@@ -1,0 +1,18 @@
+20220821	21:33:21	0b5835d8-40b7-4c41-9046-3659dd214bd8	Error	Go home you are not allowed here!
+20220824	21:50:35	62057254-5929-41d9-b4a8-6621f99440ca	SyntaxError	Unexpected string in JSON at position 28
+20220824	21:51:18	0b6351b5-d173-4c29-8992-79edd2fd239a	SyntaxError	Unexpected string in JSON at position 15
+20221004	18:37:55	9ae45e68-fbea-441a-9892-5ab0698be9c7	SyntaxError	Unexpected end of JSON input
+20221005	03:45:19	24e3c289-4d7c-46b1-8631-b49ab8489923	ReferenceError	activeUser is not defined
+20221011	01:35:20	c6ebef2c-5165-46d7-a5f8-46bb216a4ea5	SyntaxError	Unexpected end of JSON input
+20221025	08:42:25	f89f8b29-bcd4-4644-aa29-85909f47f924	TypeError	Cannot read properties of undefined (reading 'username')
+20221025	08:42:54	616c928f-e124-49fe-83ca-ef5e9c03ac45	TypeError	Cannot read properties of undefined (reading 'username')
+20221025	09:30:29	3884f44a-8e34-4bc1-b421-43ba784c5fff	SyntaxError	Unexpected token v in JSON at position 16
+20221025	09:40:32	54ac54c3-4855-4212-9832-0adbfeb71be8	TypeError	Cannot read properties of undefined (reading 'username')
+20221025	13:17:32	58e5651c-1c37-4860-afc7-15a8cf0944fa	SyntaxError	Unexpected token = in JSON at position 16
+20221025	13:18:29	14fac828-1fc4-4b66-9f5f-5ee3837d5ee6	SyntaxError	Unexpected token = in JSON at position 16
+20221025	13:25:21	ce54ac55-e0e5-4018-9cfc-7c70b1ba5674	SyntaxError	Unexpected token = in JSON at position 16
+20221025	14:18:12	bf044490-05bf-44a7-a3ab-9751cc808be4	SyntaxError	Unexpected token = in JSON at position 16
+20221025	14:21:08	65335056-2ed9-4b7c-a7a2-26aad88a2e44	TypeError	rolesArray.includes(...).find is not a function
+20221025	14:22:59	31e54be1-e062-47f0-97fc-855c43fae0bc	Error	Cannot set headers after they are sent to the client
+20221025	14:23:20	d582283c-2ed8-492f-a46a-a10bd3dddaa2	SyntaxError	Unexpected token = in JSON at position 16
+20221025	14:24:20	38f62929-c265-4bb2-b8e8-59988cccb42d	Error	Cannot set headers after they are sent to the client

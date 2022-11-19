@@ -16,3 +16,5 @@
 20221025	14:22:59	31e54be1-e062-47f0-97fc-855c43fae0bc	Error	Cannot set headers after they are sent to the client
 20221025	14:23:20	d582283c-2ed8-492f-a46a-a10bd3dddaa2	SyntaxError	Unexpected token = in JSON at position 16
 20221025	14:24:20	38f62929-c265-4bb2-b8e8-59988cccb42d	Error	Cannot set headers after they are sent to the client
+20221116	07:26:52	931cf5d3-a852-48e9-89b2-681a1288175a	Error	Go home you are not allowed here!
+20221116	07:28:10	dcab6d2c-8c14-449c-8c49-c07f31fa1a97	Error	Go home you are not allowed here!
